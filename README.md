@@ -1,5 +1,8 @@
 # OutSystems_Exercise
 Hendry Winata 191402072
----
-## Data Modeling Exercise
+
+Course OutSystems: Becoming a Reactive Web Developer\
+https://www.outsystems.com/training/paths/18/becoming-a-reactive-web-developer/
+
+- Data Modeling Exercise\
 https://youtu.be/ssx2l0KUWBw
