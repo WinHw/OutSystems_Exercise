@@ -10,3 +10,5 @@ https://youtu.be/ssx2l0KUWBw
 https://youtu.be/2xZ9f_X0yZA
 - Defining Logic Exercise\
 https://youtu.be/K4B4Ve97Ng8
+- Aggregates 101 Exercise\
+https://youtu.be/Lz6idqIU-I0
